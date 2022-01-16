@@ -31,14 +31,18 @@ Here are some ideas to get you started:
 </p> 
 <br>
 
-- Name = "ANKIT KUMAR"
-
-- Class = "9th"
-
-- Age = "14"
-
-- Country = "🇮🇳"
-
+``` 
+   ┏━━━━━━━━━━━♠️ABOUT ME♠️━━━━━━━━━━━┓
+                                                          
+   ┣🌷        Name    : "ANKIT KUMAR"
+                                                          
+   ┣🌷        Age      : "14"
+  
+   ┣🌷        Class   : "9TH "
+                         
+   ┗━━━━━━━━━━♠ANKIT KUMAR♠️ ━━━━━━━━━┛
+                                                         
+```
 
 <h2 align="center"><b>•GITHUB STATS•
 <br>
