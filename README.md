@@ -55,8 +55,7 @@ Here are some ideas to get you started:
 </a>
 </b></h2>  
 
-<details>
-<summary>•TOOL'S AND LANGUAGE I LOVE•</summary>
+
 <h2 align="center"><b>•TOOL'S AND LANGUAGE I LOVE•
   <br>
   <br>
@@ -82,4 +81,3 @@ Here are some ideas to get you started:
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </b></h2>
-</details>
