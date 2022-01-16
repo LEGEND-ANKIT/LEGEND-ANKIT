@@ -39,8 +39,7 @@ Here are some ideas to get you started:
 
 - Country = "🇮🇳"
 
-<details>
-<summary>•GITHUB STATS•</summary>
+
 <h2 align="center"><b>•GITHUB STATS•
 <br>
 <br>
@@ -55,7 +54,6 @@ Here are some ideas to get you started:
 
 </a>
 </b></h2>  
-</details>
 
 <details>
 <summary>•TOOL'S AND LANGUAGE I LOVE•</summary>
