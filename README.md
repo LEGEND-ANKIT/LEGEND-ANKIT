@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 [![Profile views](https://komarev.com/ghpvc/?username=LEGEND-ANKIT&label=Profile%20views)](https://github.com/LEGEND-ANKIT)
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-ANKIT)
   
-<a href="https://github-readme-stats.vercel.app/api?username=PROBOY-OP&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=PROBOY-OP&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
+<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-ANKIT&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
+    <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-ANKIT&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
 </a>
 </b></h2>  
