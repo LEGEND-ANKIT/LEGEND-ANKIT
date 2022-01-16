@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LEGEND-ANKIT/LEGEND-ANKIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
+<h2 align="center"><b> 🔰 Personal Information 🔰 </b></h2>
 
 <p align='Middle'><a href='https://github.com/LEGEND-ANKIT'><img src='https://telegra.ph/file/80004ad9a6f02b5f48283.jpg' width='600"'></a></p>
 
@@ -44,7 +42,7 @@ Here are some ideas to get you started:
                                                          
 ```
 
-<h2 align="center"><b>•GITHUB STATS•
+<h2 align="center"><b>🔰 GITHUB STATS 🔰
 <br>
 <br>
   
@@ -60,7 +58,7 @@ Here are some ideas to get you started:
 </b></h2>  
 
 
-<h2 align="center"><b>•TOOL'S AND LANGUAGE I LOVE•
+<h2 align="center"><b>🔰 TOOL'S AND LANGUAGE I LOVE 🔰
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
